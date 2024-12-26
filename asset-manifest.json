@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/polina/static/css/main.67a6fa8a.css",
+    "main.js": "/polina/static/js/main.bb934155.js",
+    "static/media/Nadya.MOV": "/polina/static/media/Nadya.e0ff882433293817d06b.MOV",
+    "static/media/l.jpg": "/polina/static/media/l.a9a1927ab279ce594a1b.jpg",
+    "static/media/2.jpg": "/polina/static/media/2.84d131289d68ab6ab111.jpg",
+    "static/media/1.jpg": "/polina/static/media/1.79d27ccaf5b424463d6d.jpg",
+    "index.html": "/polina/index.html",
+    "main.67a6fa8a.css.map": "/polina/static/css/main.67a6fa8a.css.map",
+    "main.bb934155.js.map": "/polina/static/js/main.bb934155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a6fa8a.css",
+    "static/js/main.bb934155.js"
+  ]
+}
